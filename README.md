@@ -1,4 +1,4 @@
-# Bonjour, ici Clément 👋 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+# Bonjour, ici Clément 👋 [<img align="rigth" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Je suis actuellement étudiant en 3ème et dernière année à l'[ENSAI](https://www.ensai.fr/), école d'ingénieur spécialisée en mathématiques, statistisques et data-science.
