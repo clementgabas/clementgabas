@@ -30,4 +30,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/cl%C3%A9ment-gabas-9250a5208/
+[linkedin]: https://www.linkedin.com/in/clemgabas/
